@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JS CSS HTML
 - 💞️ I’m looking to collaborate on Some Projects
 - 📫 How to reach me Discord:foxdrt
-- 😄 Pronouns: ???
+- 😄 Pronouns: i am a bird bird/bird
 - ⚡ Fun fact: i like cats
 
 <!---
