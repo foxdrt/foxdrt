@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning JS CSS HTML, Lua
 - 💞️ I’m looking to collaborate on Some Projects
 - 📫 How to reach me Discord:foxdrt
-- 😄 Pronouns: i am a bird bird/bird "jk"
-- ⚡ Fun fact: i like cats
 
 - Arabic Verision 
 
@@ -12,8 +10,6 @@
 - 👀  مهتم بالبرمجة
 - 🌱 حاليًا أتعلم جافاسكريبت، CSS، HTML , Lua
 - 📫 تقدر  تتواصل معي على ديسكورد: foxdrt
-- 😄 الضمائر: أنا طير، طير/طير  "jk"
-- ⚡ معلومة مالها فايدة : احب البسس
 
 
 <!---
